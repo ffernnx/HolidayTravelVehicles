@@ -1,2 +1,2 @@
-Name: Warinthorn Savetamornkul
-Student ID: 6688106
+- 📝 **Name:** Warinthorn Savetamornkul  
+- 🆔 **Student ID:** 6688106
